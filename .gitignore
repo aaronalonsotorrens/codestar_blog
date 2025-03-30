@@ -1,4 +1,1 @@
-**/.vscode/
-.gitpod.dockerfile
-.gitpod.yml
-README.md
+env.py
